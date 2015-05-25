@@ -1,7 +1,7 @@
 # Axiinput
 Remote Input for gaming
 
-Use this application for remote gaming input instead of the default input in common remote desktop software.
+Use this for proper remote gaming input with a combination of your favorite remote desktop application for audio/video.
 
 
 Follow these steps, for the best experience: 
