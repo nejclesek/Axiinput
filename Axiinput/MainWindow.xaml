@@ -74,7 +74,7 @@
             <TabItem x:Name="HelTabItem" Header="Help">
                 <StackPanel Background="#FFE5E5E5" x:Name="HelpMainGrid">
                     <Label FontSize="16" FontWeight="Bold">Can't connect?</Label>
-                    <TextBlock Margin="5" FontSize="14">Check if you need to setup or fix port forewarding.  <Hyperlink  Click="HyperlinkPortHelp_Click">HERE</Hyperlink></TextBlock>
+                    <TextBlock Margin="5" FontSize="14">Check if you need to setup or fix port forwarding.  <Hyperlink  Click="HyperlinkPortHelp_Click">HERE</Hyperlink></TextBlock>
                     
                     <Label Margin="0,10,0,0" FontSize="16" FontWeight="Bold">Connect information</Label>
                     <StackPanel Margin="5" Orientation="Horizontal">
