@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AxiiInput.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UseKeyboard" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseMouse" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultPort" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">8128</Value>
+    </Setting>
+    <Setting Name="PoolingInterval" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
